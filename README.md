@@ -6,7 +6,8 @@
   
   ### ✨ A dedicated Computer Science graduate passionate about elegant solutions ✨
   
-  *Currently seeking opportunities to grow as a developer while building impactful applications*
+  *Currently pursuing a Master's in Cybersecurity and Machine Learning at Ovidius University*  
+  *Seeking opportunities to grow as a developer while building impactful applications*
   
 </div>
 
@@ -67,9 +68,9 @@
 
 <div align="center">
 
-| 🎓 **Education** | 💻 **Skills** | 🚀 **Focus** | 🌱 **Learning** |
+| 🎓 **Education** | 💻 **Skills** | 🚀 **Focus** | 🌱 **Currently Learning** |
 |:---:|:---:|:---:|:---:|
-| Computer Science Graduate | Full-Stack Development | Clean Code & Modern UI/UX | New Technologies & Frameworks |
+| Master's in Cybersecurity & ML<br/>Computer Science Graduate | Full-Stack Development | Clean Code & Modern UI/UX | Advanced Security & AI/ML |
 
 </div>
 
@@ -80,7 +81,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6B9D)](https://www.linkedin.com/in/andra-bogde-a462b52a0/)
-[![Email](https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andragbogde@gmail.com)
 
 **💌 Open to collaborations, new opportunities, and exciting projects!**
 
